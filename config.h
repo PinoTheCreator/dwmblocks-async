@@ -9,7 +9,7 @@ const Block blocks[] = {
         //BLOCK(DR "music", 1, 15),
         BLOCK(DR "packup", 18000, 16),
         //BLOCK(DR "weather", 3600, 11),
-        BLOCK(DR "vol", 0, 13),
+        //BLOCK(DR "vol", 0, 13),
         BLOCK(DR "internet", 20, 20),
         BLOCK(DR "memory", 10, 19),
         BLOCK(DR "cpu", 5, 18),
